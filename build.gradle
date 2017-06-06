@@ -9,5 +9,6 @@ dependencies {
 	compile group: 'org.hibernate', name: 'hibernate-core', version: '5.2.10.Final'
 	compile group: 'com.zaxxer', name: 'HikariCP', version: '2.6.1'
 	compile group: 'com.oracle', name: 'ojdbc6', version: '11.2.0.3'
+	compile group: 'com.gastonlagaf', name: 'pwsf', version: '0.0.1'
 }
 
